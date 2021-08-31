@@ -3,7 +3,10 @@
 
 - 🔭 Trabalho com front-end, uma entusiasta com a interação homem máquina
 - 🌱 Estudando Typescript e UI UX  
-- 😄 Pronouns: ela/dela
+#### Hobbies 
+- 🎮 FPS
+- 🎸 Blues 
+- 🎬 Animes, Series e Filmes
 
  <div>
   <a href="https://github.com/raffashe">
