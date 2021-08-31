@@ -6,7 +6,7 @@
 #### Hobbies 
 - 🎮 FPS
 - 🎸 Blues 
-- 🎬 Animes, Series e Filmes
+- 🎬 Animes, Séries e Filmes
 
  <div>
   <a href="https://github.com/raffashe">
