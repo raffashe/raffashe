@@ -1,8 +1,8 @@
 ## Olá, eu sou a Raffaela Silva 👋
 
 
-- 🔭 Trabalho com front-end, uma entusiasta com a interação homem máquina
-
+- 🔭 Trabalho atualmente com front-end
+- 📚 Entusiasta com protótipos físicos e estudo da usabilidade nas interfaces homem-máquina
 #### Hobbies 
 - 🎮 FPS
 - 🎸 Solinho nas horas vagas 
