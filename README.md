@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com front-end, uma entusiasta com a interação homem máquina
-- 🌱 Estudando Typescript e UI UX  
+
 #### Hobbies 
 - 🎮 FPS
 - 🎸 Solinho nas horas vagas 
