@@ -5,7 +5,7 @@
 - 🌱 Estudando Typescript e UI UX  
 #### Hobbies 
 - 🎮 FPS
-- 🎸 Blues 
+- 🎸 Solinho nas horas vagas 
 - 🎬 Animes, Séries e Filmes
 
  <div>
