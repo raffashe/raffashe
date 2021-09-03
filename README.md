@@ -1,8 +1,5 @@
 ## Olá, eu sou a Raffaela Silva 👋
 
-![raffa](https://media.discordapp.net/attachments/875952964903268372/883114735887863808/Raffa.jpg)
-
-
 - 🔭 Trabalho atualmente com front-end
 - 📚 Entusiasta com protótipos físicos e estudo da usabilidade nas interfaces homem-máquina
 #### Hobbies 
