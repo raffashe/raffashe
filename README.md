@@ -2,7 +2,6 @@
 
 - 📚 Entusiasta com protótipos físicos e estudo da usabilidade nas interfaces homem-máquina
 #### Hobbies 
-- 🎮 Joga Valorant? me chama! vamos jogar juntos 🕹️😎
 - 🎸 Solinho nas horas vagas 
 - 🎬 Animes, Séries e Filmes
 
