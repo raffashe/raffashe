@@ -7,8 +7,8 @@
 
  <div>
   <a href="https://github.com/raffashe">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=raffashe&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffashe&layout=compact&langs_count=7&theme=flag-india"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=raffashe&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffashe&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
  ##
@@ -29,6 +29,9 @@
    <img align="center" alt="Rafa-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
    <img align="center" alt="Rafa-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
    <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Rafa-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+   <img align="center" alt="Rafa-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
+ 
   
   
  
