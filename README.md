@@ -25,15 +25,10 @@ Sou Engenheira da Computação!
    <img align="center" alt="Rafa-elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
  
            
-          
-
-
- 
-  
+     
   
  
-   <img align="right" alt="Rafa-yoda" height="150" width="150" src="https://media.giphy.com/media/ONxjbDP35kbiJdXV3p/giphy.gif?cid=790b7611912dd1948e588a6e9af77a09540358e96e6dd436&rid=giphy.gif&ct=g">
-</div>
+  </div>
  
  ## Contact
 
