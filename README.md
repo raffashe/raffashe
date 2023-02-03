@@ -1,4 +1,4 @@
-## Olá, eu sou a Raffa 👋
+## Olá, eu sou a Raffaela 👋
 
 Sou Engenheira da Computação!
 
