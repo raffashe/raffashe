@@ -1,6 +1,5 @@
 ## Olá, eu sou a Raffaela 👋
 
-Sou Engenheira da Computação!
 
  <div>
   <a href="https://github.com/raffashe">
