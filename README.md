@@ -1,7 +1,8 @@
 ## :octocat: Hello there! I'm Raffa :crossed_fingers:
 
-I'm a computer engineer with a passion for mobile development. My tech stack includes JavaScript, TypeScript, Dart, Java, Flutter, React Native, ReactJS, NodeJS, and Elixir. I've worked on a variety of projects, but my current focus is on creating beautiful and functional mobile applications. If you're looking for a developer who loves to stay up-to-date with the latest technologies and can help you bring your mobile app to life, then look no further. Let's create something amazing together!
+>I'm a computer engineer with a passion for mobile development. My tech stack includes JavaScript, TypeScript, Dart, Java, Flutter, React Native, ReactJS, NodeJS, and >Elixir. I've worked on a variety of projects, but my current focus is on creating beautiful and functional mobile applications. If you're looking for a developer who >loves to stay up-to-date with the latest technologies and can help you bring your mobile app to life, then look no further. Let's create something amazing together!
 
+#
 
  <div>
   <a href="https://github.com/raffashe">
