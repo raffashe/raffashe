@@ -1,22 +1,18 @@
 ## :octocat: Hello there! I'm Raffa :crossed_fingers:
 
->I'm a computer engineer with a passion for mobile development. My tech stack includes JavaScript, TypeScript, Dart, Java, Flutter, React Native, ReactJS, NodeJS, and Elixir. I've worked on a variety of projects, but my current focus is on creating beautiful and functional mobile applications. If you're looking for a developer who loves to stay up-to-date with the latest technologies and can help you bring your mobile app to life, then look no further. Let's create something amazing together!
+>I'm a computer engineer with a passion for mobile development. My tech stack includes Dart, Java, Flutter and Kotlin. I've worked on a variety of projects, but my current focus is on creating beautiful and functional mobile applications. If you're looking for a developer who loves to stay up-to-date with the latest technologies and can help you bring your mobile app to life, then look no further. Let's create something amazing together!
 
 
  ## Skills :wine_glass:
  
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
-   <img align="center" alt="Rafa-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-   <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
    <img align="center" alt="Rafa-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
    <img align="center" alt="Rafa-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
-   <img align="center" alt="Rafa-elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img align="center" alt="Rafa-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+   <img align="center" alt="Rafa-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+   <img align="center" alt="Rafa-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
    
   
  
