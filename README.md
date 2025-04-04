@@ -4,7 +4,7 @@
 void main() {
   final profile = <String, dynamic>{}
     ..['name'] = 'Raffaela de Castro'
-    ..['title'] = 'Software Engineer | Mobile Engineer'
+    ..['title'] = 'Software Engineer'
     ..['skills'] = ['Flutter', 'Dart', 'Kotlin']
     ..['about'] = "Software Engineer focused on cross-platform development using Flutter, Dart, and Kotlin."
     ..['location'] = {
