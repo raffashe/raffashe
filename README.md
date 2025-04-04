@@ -4,10 +4,9 @@
 void main() {
   final profile = <String, dynamic>{}
     ..['name'] = 'Raffaela de Castro'
-    ..['title'] = 'Computer Engineer | Neurorobotics | Mobile Engineer'
-    ..['skills'] = ['Flutter', 'Dart', 'Kotlin', 'Python', 'Machine Learning']
-    ..['about'] = "Computer Engineer with a focus on Neurorobotics and cross-platform development
-    using Flutter, Dart, and Kotlin. Passionate about AI and computer vision."
+    ..['title'] = 'Software Engineer | Mobile Engineer'
+    ..['skills'] = ['Flutter', 'Dart', 'Kotlin']
+    ..['about'] = "Software Engineer focused on cross-platform development using Flutter, Dart, and Kotlin."
     ..['location'] = {
       'from': 'Brazil',
       'based': 'São Luís - MA',
